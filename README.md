@@ -32,5 +32,9 @@ $ ./gradlew bootRun
 ...
 ```
 
+For details, please refer to the following link.
+
+[Spring BootでMyBatisを使ってみる - Reasonable Code](https://reasonable-code.com/spring-boot-mybatis/)
+
 ## License
 This software is released under the MIT License.
